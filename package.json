@@ -1,0 +1,22 @@
+{
+  "name": "tapestry_scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.19.2",
+    "fs-extra": "^9.0.1",
+    "puppeteer": "^5.0.0",
+    "puppeteer-interceptor": "^1.1.0"
+  },
+  "devDependencies": {
+    "sprintf-js": "^1.1.2"
+  }
+}
